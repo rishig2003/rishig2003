@@ -34,4 +34,8 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1></div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIG2003&show_icons=true&theme=radical)
