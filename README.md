@@ -60,3 +60,4 @@ Here are some ideas to get you started:
 
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIG2003&show_icons=true&theme=radical)
+[![An image of @rishig2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishig2003)](https://holopin.io/@rishig2003)
