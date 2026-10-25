@@ -42,13 +42,11 @@ Here are some ideas to get you started:
 
 <div>
   <div>
-    
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   </div>
   <div>
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
     </div>
     <div>
@@ -57,7 +55,3 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
   </div>
 </div>
-
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIG2003&show_icons=true&theme=radical)
-[![An image of @rishig2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishig2003)](https://holopin.io/@rishig2003)
